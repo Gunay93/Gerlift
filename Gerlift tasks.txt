@@ -1,0 +1,57 @@
+- 1 dilde
+
+- birbasa vatsapa yaz
+
+- qiymet sorgusu
+
+- fontfamily automark
+
+=============  SAYTIN SECTİONLARI  =============
+
+fullscreen slider + navbar (https://kapital.kz/project/erg)
+
+shirket haqda (bme)
+
+mehsul kateqoriyalari (studia-54.ru)
+
+gorulen ishler = bme (autocarusel)
+
+xidmetler (studia-54.ru)
+
+referans logolari  (bartransbaku.com)
+
+footer (http://horseclub-talisman.ru/)
+
+
+
+
+=============  SAYTIN MENUSU  =============
+şirkət
+  
+	- haqqımızda
+  
+	- missiya və vizyon
+  
+	- sertifikatlar
+  
+	- xəbərlər
+  
+	- kataloqlar
+
+məhsullar
+  
+	- liftlər
+  
+	- qapılar
+
+xidmətlər
+  
+	- layihələndirmə
+  
+	- təmir və tikinti
+  
+	- memarlıq
+
+görülən işlər
+
+əlaqə
