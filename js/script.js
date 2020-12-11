@@ -1,6 +1,6 @@
 $('.slider').owlCarousel({
     loop:true,
-    autoplay: true,
+    autoplay: false,
     items:1,
     autoplayTimeout:4000,
     animateOut: 'slideOutLeft',
@@ -34,4 +34,11 @@ var swiper = new Swiper('.works-carousel ', {
           spaceBetween: 18
         },
     }
+});
+$(window).scroll(function (event) {
+  var scroll = $(window).scrollTop();
+  if(scroll > 40){
+    $('.navbar-fixed').addClass('bg-black');
+  }
+  else{$('.navbar-fixed').removeClass('bg-black');}
 });
