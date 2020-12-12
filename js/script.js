@@ -1,6 +1,6 @@
 $('.slider').owlCarousel({
     loop:true,
-    autoplay: false,
+    autoplay: true,
     items:1,
     autoplayTimeout:4000,
     animateOut: 'slideOutLeft',
