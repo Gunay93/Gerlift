@@ -42,3 +42,6 @@ $(window).scroll(function (event) {
   }
   else{$('.navbar-fixed').removeClass('bg-black');}
 });
+$(document).ready(function(){
+  $('.refbackground').css('height',$('.refbackground').innerWidth());
+});
